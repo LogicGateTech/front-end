@@ -32,9 +32,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 * You will find the challenge and instructions in `src/app/main.component.ts`. Add your code to the `getAnimalsByClass()` method.
 
-* If you are applying for SE I you do not need to remove duplicates or run the tests to see if they pass.
+* If you are applying for Associate Software Engineer, you do not need to remove duplicates or run the tests to see if they pass.
 
-* If you are applying for SE II or SE III. Run `ng test` to see if your solution passes.
+* If you are applying for Software Engineer or Senior Software Engineer, run `ng test` to see if your solution passes.
 
 Transform the "animalsByContinent" object (see `mock-animals.ts`) so that animals
 across every continent are organized by "class" and alphabetized by "name."
