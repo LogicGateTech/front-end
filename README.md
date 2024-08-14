@@ -10,7 +10,9 @@ When you're done zip the project directory, upload it to Dropbox, Google Drive, 
 
 ## Setup
 
-You will need to install [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/get-npm) on your computer in order to run the project.
+You will need to install [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/get-npm) on your computer in order to run the project. Please download the latest version of Node.js v16. This will **not** be the default version!
+
+Enter in your terminal: `node -v` which should print `v16.xx.x`
 
 After installing the Angular CLI (instructions below) run `ng --version` to see which node version you need to run the project. If you are unsure what version of Node.js runs on your system, run `node -v` in a terminal window.
 
